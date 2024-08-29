@@ -1,4 +1,4 @@
-AI Assistant
+**AI Assistant**
 Welcome to the AI Assistant project! This repository features an AI-powered assistant designed to execute predefined commands and automate various tasks.
 
 Features
